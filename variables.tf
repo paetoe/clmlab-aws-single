@@ -1,6 +1,6 @@
 //AWS Configuration
-variable access_key {AKIA4CXCSAHDOTBBMB5H}
-variable secret_key {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}
+variable "access_key" {accesss_key = "AKIA4CXCSAHDOTBBMB5H"}
+variable "secret_key" {secret_key = "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"}
 
 variable "region" {
   default = "eu-west-1"
