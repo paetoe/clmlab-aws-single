@@ -54,7 +54,7 @@ resource "aws_instance" "fgtvm" {
   }
 
   tags = {
-    Name = "FortiGateVM-LAB"
+    Name = "FortiGateVM-CLM-LAB"
   }
 }
 
